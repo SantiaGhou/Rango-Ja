@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+    /* Colors based on Logo */
+    --primary-color: #E32B2D;  /* Red from Logo */
+    --secondary-color: #A1D63C;  /* Green from Logo */
+    --text-color: #333333;  /* Dark text color for readability */
+    --background-color: #FFFFFF;  /* White background */
+    --border-color: #E32B2D;  /* Red border color */
+    
+    /* Hover Colors */
+    --primary-color-hover: #D12B2A;  /* Darker red for hover */
+    --secondary-color-hover: #8BBF2F;  /* Lighter green for hover */
+    --text-color-hover: #555555;  /* Lighter dark color for hover text */
+
+    /* Typography */
+    --primary-font: 'Poppins', sans-serif;  /* Main font */
+    --heading-font: 'Poppins', sans-serif;  /* Heading font (same as primary) */
+}
